@@ -1,0 +1,16 @@
+##
+    quiz onde vamos utilizar tanto o banco de perguntas
+    como vamos criar questoes no programa
+##
+
+create quiz title ="Exame final de programação" auto-corrective 20 pass = "porto"
+titulo = "true/false são classificados como _ em java"
+
+multi-choice id = Pa1 text = titulo {
+    option id = b1 text = "Integer" 
+    option id = b2 text = "Double" 
+    option id = b3 text = "Boolean" 
+    option id = b4 text = "String" 
+}
+create report
+finish quiz

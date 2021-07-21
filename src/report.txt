@@ -1,0 +1,39 @@
+================================== Report ==================================
+
+Question: Sabendo que o valor de x = 1 e que houve a instrução x++  e depois x=x+3 qual o valor atual de x 
+Given answer: 4
+Correct answer: [o4]
+Mark:0.0/4.0
+
+============================================================================
+Question: true/false são classificados como _ em java 
+Given answer: Double
+Correct answer: [b3]
+Mark:0.0/4.0
+
+============================================================================
+Question: Qual destes não é um loop em java: 
+Given answer: Nenhuma das anteriores
+Correct answer: [tudo]
+Mark:4.0/4.0
+
+============================================================================
+Question: Extensão de um ficheiro de gramática de ANTLR-4? 
+Given answer: .g4
+Correct answer: [.g4]
+Mark:3.0/3.0
+
+============================================================================
+Question: Pi (com duas casas decimais): 
+Given answer: 3.0
+Correct answer: [3.14]
+Mark:0.0/4.0
+
+============================================================================
+Question: Cristiano ________ 
+Given answer: Ronaldo
+Correct answer: [Ronaldo]
+Mark:1.0/1.0
+
+============================================================================
+== Final grade: 8.0/20.0 ==

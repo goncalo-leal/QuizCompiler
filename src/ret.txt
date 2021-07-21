@@ -1,0 +1,45 @@
+================================== Report ==================================
+
+Question: O que quer dizer Adios em português? 
+Given answer: Bom dia
+Correct answer: [o3]
+Mark:0.0/2.5
+
+============================================================================
+Question: Extensão de um ficheiro de gramática de ANTLR-4? 
+Given answer: .g4
+Correct answer: [.g4]
+Mark:2.5/2.5
+
+============================================================================
+Question: Corresponda as cores: 
+Given answer: aa -> cc,bb -> dd,
+Correct answer: null
+Mark:3.0/3.0
+
+============================================================================
+Question: Cores do RGB? 
+Given answer: blue orange yellow
+Correct answer: [m1]
+Mark:0.0/2.0
+
+============================================================================
+Question: Cristiano ________ 
+Given answer: Ronaldo
+Correct answer: [Ronaldo]
+Mark:3.0/3.0
+
+============================================================================
+Question: 3*3 
+Given answer: 9.0
+Correct answer: [9.0]
+Mark:3.0/3.0
+
+============================================================================
+Question: 2+2= 
+Given answer: 4.0
+Correct answer: [4.0]
+Mark:4.0/4.0
+
+============================================================================
+== Final grade: 15.5/20.0 ==
